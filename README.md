@@ -8,7 +8,7 @@ This repository contains the official implementation of our Interspeech 2025 pap
 
 ## 📖 Citation
 
-If you use this repository, please cite:
+If you find this work useful, please cite:
 
 ```bibtex
 @inproceedings{hsieh2025interspeech,
